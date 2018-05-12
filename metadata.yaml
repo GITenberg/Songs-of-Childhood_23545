@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
 description: A collection of forty-seven poems about subjects and experiences familiar
   to children.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23545#Songs-of-Childhood
 gutenberg_bookshelf: Children's Verse
 gutenberg_issued: '2007-11-19'
 gutenberg_type: Text
