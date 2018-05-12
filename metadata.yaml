@@ -1,0 +1,43 @@
+_repo: Songs-of-Childhood_23545
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hecht, Anthony
+    birthdate: 1923
+    deathdate: 2004
+    gutenberg_agent_id: '25906'
+    url: http://www.gutenberg.org/2009/agents/25906
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Mare, Walter de la
+    - De la Mare, Walter John
+    - Ramal, Walter
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: A collection of forty-seven poems about subjects and experiences familiar
+  to children.
+gutenberg_bookshelf: Children's Verse
+gutenberg_issued: '2007-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23545'
+  lccn: '75032200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, English'
+- !lcsh 'English poetry'
+- !lcc 'PZ'
+- !lcc 'PR'
+title: Songs of Childhood
+url: http://www.gutenberg.org/ebooks/23545
